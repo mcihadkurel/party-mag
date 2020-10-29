@@ -28,6 +28,13 @@ To get this project up and running locally, you must already have ruby and rails
 
 👤 **Muhammed Cihad Kurel**
 
+
+👤 **Muhammed Cihad Kurel**
+
+- Github: [@mcihadkurel](https://github.com/mcihadkurel)
+- Twitter: [@mece_ka](https://twitter.com/mece_ka)
+- LinkedIn: [@muhammed](https://www.linkedin.com/in/muhammed-cihad-8187581a8/)
+=======
 - Github: [@mcihadkurel](https://github.com/mcihadkurel)
 - Twitter: [@mece_ka](https://twitter.com/mece_ka)
 - LinkedIn: [@muhammed](https://www.linkedin.com/in/muhammed-cihad-8187581a8/)
@@ -39,3 +46,4 @@ Contributions, issues and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
