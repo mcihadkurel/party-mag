@@ -24,10 +24,7 @@ To get this project up and running locally, you must already have ruby and rails
 - Run `rails db:migrate` to setup your local database.<br>
 - Finally run `rails console` to start the application.<br>
 
-## Authors
-
-👤 **Muhammed Cihad Kurel**
-
+## Author
 
 👤 **Muhammed Cihad Kurel**
 
